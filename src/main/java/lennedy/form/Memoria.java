@@ -17,8 +17,10 @@ public class Memoria {
             dados[i]="0";
         }
         dados[0] = "soma10";
-        dados[1] = "sub 20";
+        dados[1] = "sub 12";
         dados[2] = "mult5";
+        
+        dados[10] = "8";
         
     }
 

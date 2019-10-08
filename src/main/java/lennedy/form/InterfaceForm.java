@@ -12,8 +12,6 @@ package lennedy.form;
 public interface InterfaceForm{
     
     public void clock();
-    public void clock1();
-    public void clock2();
     public DadosCpu getDadosCpu();
     public Barramento getDadosBarramento();
     
